@@ -1,2 +1,2 @@
 ab-test:
-	ab -n 1000 -c 10 http://localhost:8080
+	ab -n 1000 -c 10 http://127.0.0.1:8080/
